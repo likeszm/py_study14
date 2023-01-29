@@ -50,4 +50,3 @@ theDay = datetime.datetime.strptime(thatDay,'%Y-%m-%d')
 print(theDay.weekday())
 """
 
-
