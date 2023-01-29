@@ -1,9 +1,9 @@
 #py学习记录14：时间
 """
-
-
+利用 time 和 datetime 模块
 
 """
+
 import time
 import datetime
 
